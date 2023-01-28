@@ -1,0 +1,12 @@
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Python\自學聖經\例外處理\untitled21.py", line 18, in <module>
+    CheckSpeed(speed)
+  File "C:\Users\user\Desktop\Python\自學聖經\例外處理\untitled21.py", line 12, in CheckSpeed
+    raise Exception("速度太慢了！")
+Exception: 速度太慢了！
+Traceback (most recent call last):
+  File "C:\Users\user\Desktop\Python\自學聖經\例外處理\untitled21.py", line 18, in <module>
+    CheckSpeed(speed)
+  File "C:\Users\user\Desktop\Python\自學聖經\例外處理\untitled21.py", line 14, in CheckSpeed
+    raise Exception("已經超速了！")
+Exception: 已經超速了！
